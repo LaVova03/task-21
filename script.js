@@ -31,7 +31,6 @@ function Boo() {
             };
         }
     };
-
     return obj;
 };
 const iterator = Boo();
